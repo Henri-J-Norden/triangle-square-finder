@@ -1,0 +1,6 @@
+A:\Projects\VS\Triangle-Square finder\Triangle-Square finder\bin\Debug\Triangle-Square finder.exe.config
+A:\Projects\VS\Triangle-Square finder\Triangle-Square finder\bin\Debug\Triangle-Square finder.exe
+A:\Projects\VS\Triangle-Square finder\Triangle-Square finder\bin\Debug\Triangle-Square finder.pdb
+A:\Projects\VS\Triangle-Square finder\Triangle-Square finder\obj\Debug\Triangle-Square finder.csprojResolveAssemblyReference.cache
+A:\Projects\VS\Triangle-Square finder\Triangle-Square finder\obj\Debug\Triangle-Square finder.exe
+A:\Projects\VS\Triangle-Square finder\Triangle-Square finder\obj\Debug\Triangle-Square finder.pdb
